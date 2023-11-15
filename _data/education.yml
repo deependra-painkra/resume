@@ -1,13 +1,19 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Technology, Computer Science Engineering (Artificial Intelligence)
+  uni: Rungta College of Engineering & Technology, Bhilai, CG
+  year: Nov, 2021 &mdash; Present
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Current academics marks - 8.36 CGPA
+  # summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Senior School (XII)
+  uni: Kendriya Vidyalaya Jashpur, Jashpur Nagar CG
+  year: 2020 &mdash; 2021
+  award: Academic marks - 80.60%
+  # summary: You can choose to have either a single or multiple awards
+
+  - degree: Secondary School (X)
+  uni: Dev Public School, Jashpur Nagar CG
+  year: 2018 &mdash; 2019
+  award: Academic marks - 83.33%
+  # summary: You can choose to have either a single or multiple awards
