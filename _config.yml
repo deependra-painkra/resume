@@ -23,7 +23,7 @@ resume_contact_address:         "Avanti Bai Chowk, Street no. 1, House no. 1480,
 resume_header_contact_info:     "Avanti Bai Chowk, Street no. 1, House no. 1480, Khoka, Bhilai, Chhattisgarh • +91 7747827345 • deependrapainkra957@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro:"<p>I'm a third-year Engineering student in Computer Science with a specialization in AI, and I'm keen to put my academic training to use on practical tasks. I've developed the essential coding and problem-solving abilities necessary for the jobs, and I'm excited about the chance to get hands-on experience in a working environment.</p>"
+resume_header_intro: "<p>I'm a third-year Engineering student in Computer Science with a specialization in AI, and I'm keen to put my academic training to use on practical tasks. I've developed the essential coding and problem-solving abilities necessary for the jobs, and I'm excited about the chance to get hands-on experience in a working environment.</p>"
 #  "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
 
 # use "yes" to display the email contact button,
