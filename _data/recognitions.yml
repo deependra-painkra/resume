@@ -1,10 +1,11 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Basketball
+  organization: Kendriya Vidyalaya Jashpur
+  year: 2019
+  summary: Awarded 2nd price in School competition as the team. 
+  # summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Student of the year
+  organization: Dev Public School, Jashpur Nagar CG
+  year: 2018
+  summary: Awarded the Student of the Year award in school for outstanding performance in the year 2018.
